@@ -1,1 +1,1 @@
-document.querySelector("h2").innerHTML="Good Buy";
+// document.querySelector("h2").innerHTML="Good Buy";
